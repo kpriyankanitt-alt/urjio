@@ -1,0 +1,6 @@
+.env
+ig_session.json
+.spotify_token_cache
+output/*.csv
+__pycache__/
+*.pyc
